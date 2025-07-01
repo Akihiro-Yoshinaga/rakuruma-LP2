@@ -1,0 +1,24 @@
+{
+  "name": "rakuruma-lp",
+  "version": "1.0.0",
+  "description": "ラクルマ出張洗車・整備サービスのランディングページ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "rakuruma",
+    "car-wash",
+    "car-service",
+    "landing-page"
+  ],
+  "author": "Akihiro Yoshinaga",
+  "license": "MIT"
+}
